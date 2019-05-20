@@ -93,17 +93,6 @@ toggleButton.addEventListener('click', () => {
 		}
 	}
 
-	// for(let i = 0; i < lis.length; i+=1) {
-		
-	// 	let li = lis[i];
-	// 	li.classList.add('notDone');
-	// 	if(li.className === 'notDone') {
-	// 		li.style.display = 'none';
-	// 		li.className = 'done'
-	// 	} else if (li.className === 'done'){
-	// 		li.style.display = '';
-	// 		li.className = 'notDone';
-	// 	}
-	// }
+	
 });
 
